@@ -1,0 +1,9 @@
+[submodule "extern/cxxopts"]
+	path = extern/cxxopts
+	url = https://github.com/jarro2783/cxxopts.git
+[submodule "extern/termcolor"]
+	path = extern/termcolor
+	url = https://github.com/ikalnytskyi/termcolor.git
+[submodule "extern/googletest"]
+	path = extern/googletest
+	url = https://github.com/google/googletest.git
